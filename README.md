@@ -16,6 +16,9 @@ ex)여름에 기온이 높다고 무조건 반팔을 추천하지 않고 자외�
 ![image](https://user-images.githubusercontent.com/91641650/156003906-7677de30-e6ff-4078-b1ec-d77bdcd5ab66.png)
 ### ERD-physical
 ![image](https://user-images.githubusercontent.com/91641650/156003968-b255f434-18d8-49c4-b877-9bd4ae341e9e.png)
+--------------------
+### 메인화면  
+![localhost_8080_semiTest01_main jsp](https://user-images.githubusercontent.com/91641650/158274240-d940da6c-f46b-40ce-8ef9-45acaf0b7901.png)
 
 --------------------
 ### 업무분담
